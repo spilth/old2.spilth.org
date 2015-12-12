@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header, .footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 15px;
+  }
+}
+
+.page-header {
+  border: none;
+  margin: 20px 0 0;
+}
+
+.lead {
+  margin-bottom: 0;
+}
+
+a {
+  /* color: #33b77a; */
+}
+
+a.external {
+  color: #b77a33;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+body {
+  font-size: 18px;
+  line-height: 26px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}

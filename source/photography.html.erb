@@ -1,0 +1,7 @@
+---
+title: Photography
+---
+
+<% data.photos.each do |photo| %>
+  <a href="/images/photos/<%= photo.filename %>"><%= image_tag "photos/" + photo.filename, resize_to: '320x240', class: 'img-thumbnail' %></a>
+<% end %>
