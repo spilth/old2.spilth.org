@@ -15,9 +15,9 @@ A series of screencasts about Spring Boot and Java.
 
 A growing collection of useful Java libraries, plug-ins and tools.
 
-### [Pragmatic Guide to Maven](https://github.com/spilth/maven-book)
+### [Pragmatic Guide to Maven](https://www.gitbook.com/book/spilth/pragmatic-guide-to-maven-3)
 
-A book about [Maven](https://maven.apache.org) that I never finished but has still been very helpful.
+A book about [Maven](https://maven.apache.org) that I never finished but still has managed to be very helpful.
 
 ### [littleBits Gem](https://github.com/spilth/little_bits)
 
