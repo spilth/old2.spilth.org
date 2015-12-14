@@ -35,10 +35,6 @@ RubyGem for controlling an [l8 SmartLight](http://l8smartlight.com)
 
 A RubyGem for translating Pig Latin.
 
-### [Astrosmash (Phaser)](https://github.com/spilth/astrosmash-phaser)
-
-A JavaScript [Astrosmash](https://en.wikipedia.org/wiki/Astrosmash) clone.
-
 ### [Arcanaeum](https://github.com/spilth/arcanaeum)
 
 A mobile-friendly site for reading the books of [Skyrim](http://www.elderscrolls.com/skyrim/).
