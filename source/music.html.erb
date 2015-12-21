@@ -11,11 +11,11 @@ description: I've been making music since I could bang pots and pans together. I
     <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
 <% end %>
 
-<h2>Collaborations</h2>
+<h2>The Laundry Room</h2>
 
-<p>These are original songs that I've written and recorded with others:</p>
+<p>These are original songs that I wrote and recorded with my college band:</p>
 
-<% data.songs.collaborations.each do |song| %>
+<% data.songs.tlr.each do |song| %>
     <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
 <% end %>
 
