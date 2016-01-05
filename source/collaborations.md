@@ -5,7 +5,7 @@ description: If you've found yourself here it's probably because I want to colla
 
 Here's a rough idea of what I'd like to do:
 
-- We get together for several hours on a weekend
+- We get together for several hours on a weekend (or via the internet)
 - We either write an original song or decide on a cover
 - We record the song
 - We mix it
@@ -13,3 +13,8 @@ Here's a rough idea of what I'd like to do:
 - We put it up on Bandcamp
 - We don't charge money for it
 
+If you'd like to hear some of my music:
+
+- [My Bandcamp Page](http://music.spilth.org/)
+- [My Soundcloud Profile](https://soundcloud.com/spilth)
+- [My college band's Bandcamp Page](https://thelaundryroom.bandcamp.com/)
