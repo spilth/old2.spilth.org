@@ -64,6 +64,8 @@ GEM
     fog-xml (0.1.2)
       fog-core
       nokogiri (~> 1.5, >= 1.5.11)
+    font-awesome-middleman (4.5.0)
+      middleman-core (~> 3.0)
     formatador (0.2.5)
     haml (4.0.7)
       tilt
@@ -180,6 +182,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass
+  font-awesome-middleman
   middleman (~> 3.4.0)
   middleman-livereload (~> 3.1.0)
   middleman-s3_sync (~> 3.0.0)
