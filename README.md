@@ -7,6 +7,7 @@ This is my personal site.
 ## Setup
 
 ```sh
+$ brew install imagemagick
 $ bundle
 $ bundle exec middleman server
 ```
