@@ -6,5 +6,5 @@ description: Map making was an interest I discovered after riding some local mou
 <p>Here are some mountain biking maps I created using Adobe Illustrator:</p>
 
 <% data.maps.each do |map| %>
-  <a href="/images/maps/<%= map.filename %>"><%= image_tag "maps/" + map.filename, resize_to: '320x240', class: 'img-thumbnail' %></a>
+  <a href="/images/maps/<%= map.filename %>"><%= image_tag "maps/" + map.filename, class: 'img-thumbnail' %></a>
 <% end %>
