@@ -1,0 +1,11 @@
+---
+title: Blog
+---
+
+<ul>
+<% blog.articles[0...5].each do |article| %>
+  <li><a href="<%= article.url %>"><%= article.title %></a>
+    <time><%= article.date.strftime('%b %e %Y') %></time>
+  </li>
+<% end %>
+</ul>

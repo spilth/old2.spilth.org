@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem "middleman"
+gem "middleman-blog"
 gem "middleman-sprockets", "~> 4.0.0.rc"
 gem 'middleman-s3_sync', "4.0.2"
 
