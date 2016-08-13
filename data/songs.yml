@@ -27,6 +27,23 @@ originals:
     title: "Cool With It"
     id: 1132253285
     url: "http://music.spilth.org/track/cool-with-it"
+vgm:
+  -
+    title: "Action Game"
+    id: 1123466011
+    url: "http://music.spilth.org/track/action-game"
+  -
+    title: "Water Level"
+    id: 3832996535
+    url: "http://music.spilth.org/track/water-level"
+  -
+    title: "Success"
+    id: 2199721152
+    url: "http://music.spilth.org/track/success"
+  -
+    title: "To Be Continued"
+    id: 2903759540
+    url: "http://music.spilth.org/track/to-be-continued"
 tlr:
   -
     title: "The Slow Sad Song"

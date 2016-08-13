@@ -10,15 +10,23 @@ description: I'm a singer and songwriter, interested in emotionally charged musi
 <p>These are a few songs that I've written and recorded by myself:</p>
 
 <% data.songs.originals.each do |song| %>
-    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
+    <iframe style="border: 0; width: 100%; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=small/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=none/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
+<% end %>
+
+<h2>Video Game Music</h2>
+
+<p>These are original pieces intended to be used in video games:</p>
+
+<% data.songs.vgm.each do |song| %>
+    <iframe style="border: 0; width: 100%; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=small/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=none/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
 <% end %>
 
 <h2>The Laundry Room</h2>
 
-<p>These are original songs that I wrote and recorded with my college band, <a href="https://thelaundryroom.bandcamp.com">The Laundry Room</a>:</p>
+<p>These are original songs that I wrote and recorded with my college band, <a href="http://thelaundryroom.bandcamp.com">The Laundry Room</a>:</p>
 
 <% data.songs.tlr.each do |song| %>
-    <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
+    <iframe style="border: 0; width: 100%; height: 42px;" src="//bandcamp.com/EmbeddedPlayer/track=<%= song.id %>/size=small/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=none/transparent=true/" seamless><a href="<%= song.url %>"><%= song.title %></a></iframe>
 <% end %>
 
 <h2>Cover Songs</h2>
@@ -26,5 +34,6 @@ description: I'm a singer and songwriter, interested in emotionally charged musi
 <p>Finally, here are some covers I've recorded:</p>
 
 <% data.songs.covers.each do |song| %>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/<%= song.id %>&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+  <iframe width="100%" height="20" scrolling="no" frameborder="no" src="//w.soundcloud.com/player/?url=http%3A//api.soundcloud.com/tracks/<%= song.id %>&amp;color=ff5500&amp;auto_play=false&amp;show_user=true"></iframe>
 <% end %>
+
