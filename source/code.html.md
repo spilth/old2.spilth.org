@@ -1,5 +1,6 @@
 ---
 title: Code
+disqus: false
 description: I've been programming since Apple Basic. My preferred languages are Java & Ruby. The best way to see what I'm up to is to check <a href="https://github.com/spilth">my GitHub profile</a>.
 ---
 

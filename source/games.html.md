@@ -1,5 +1,6 @@
 ---
 title: Games
+disqus: false
 description: I enjoy making small games, using level editors and occasionally creating mods.
 ---
 
