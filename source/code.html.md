@@ -1,22 +1,14 @@
 ---
 title: Code
 disqus: false
-description: I've been programming since Apple Basic. My preferred languages are Java & Ruby. The best way to see what I'm up to is to check <a href="https://github.com/spilth">my GitHub profile</a>.
+description: I've been programming since Apple Basic. My preferred languages are Ruby & Java. The best way to see what I'm up to is to check <a href="https://github.com/spilth">my GitHub profile</a>.
 ---
 
 Here are some of the projects I am most proud of:
 
-## [Annotated Spring](http://www.annotatedspring.com)
-
-A series of screencasts about Spring Boot and Java.
-
 ## [Arcanaeum](https://github.com/spilth/arcanaeum)
 
 A mobile-friendly site for reading the books of [Skyrim](http://www.elderscrolls.com/skyrim/).
-
-## [The Java Toolbox](http://www.java-toolbox.com)
-
-A growing collection of useful Java libraries, plug-ins and tools.
 
 ## [l8 Gem](https://github.com/spilth/l8)
 
