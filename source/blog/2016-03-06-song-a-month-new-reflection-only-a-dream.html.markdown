@@ -4,7 +4,7 @@ title: Reflection a Month - Only A Dream
 
 ## What It Sounds Like
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4128997128/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://music.spilth.org/track/only-a-dream">Only A Dream</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4128997128/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://spilth.bandcamp.com/track/only-a-dream">Only A Dream</a></iframe>
 
 ## Where It Came From
 

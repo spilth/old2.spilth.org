@@ -15,6 +15,6 @@ Here's a rough idea of what I'd like to do:
 
 If you'd like to hear some of my music:
 
-- [My Bandcamp Page](http://music.spilth.org/)
+- [My Bandcamp Page](https://spilth.bandcamp.com/)
 - [My Soundcloud Profile](https://soundcloud.com/spilth)
 - [My college band's Bandcamp Page](https://thelaundryroom.bandcamp.com/)
